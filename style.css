@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    font-family: cursive;
+}
+.box{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    border-radius: 20px;
+    width: 100px;
+}
